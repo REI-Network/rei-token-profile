@@ -2,7 +2,7 @@
   "name": "Token name",
   "symbol": "Token symbol",
   "address": "Contract Address",
-  "logo": "https://your-awesome-project.com/logo.png",
+  "logo_cid": "IPFS CID",
   "overview":{
         "en": "Token Description."
   },
